@@ -55,6 +55,11 @@ def evaluate_models(X_train, y_train,X_test,y_test,models,param):
     
 def load_object(file_path):
     try:
+        # # import os
+
+        # print("file_path =", file_path)
+        # print("absolute path =", os.path.abspath(file_path))
+        # print("exists =", os.path.exists(file_path))
         with open(file_path, "rb") as file_obj:
             return dill.load(file_obj)
 
