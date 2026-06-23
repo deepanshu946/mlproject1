@@ -1,4 +1,4 @@
-# InsightForge AI 
+# InsightForge AI (insightforge--ai.streamlit.app/)
 
 > Transform videos into searchable knowledge bases using AI-powered transcription, hybrid retrieval, reranking, and conversational question answering.
 
